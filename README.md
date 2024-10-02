@@ -4,9 +4,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring and deploying On-premises Active Directory within Azure VMs](https://github.com/TheNameIsRob/Active-Directory-Config)
   - [Inspecting Network Protocols and Network Security Groups (NSGs)](https://github.com/TheNameIsRob/azure-network-protocols)
-  - [Creating users with PowerShell, establishing group policies and managing accounts.](https://github.com/TheNameIsRob/Azure-User-Management)
+  - [Preparing Active Directory Infrastructure](https://github.com/TheNameIsRob/Azure-User-Management)
+  - [Deploying Active Directory and Creating users with Powershell](https://github.com/TheNameIsRob/Active-Directory-Config)
+  - [Group Policy and Managing Accounts]()
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TheNameIsRob/osticket-prereqs)
