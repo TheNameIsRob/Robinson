@@ -6,8 +6,8 @@
 - <b>Microsoft Azure</b>
   - [Inspecting Network Protocols and Network Security Groups (NSGs)](https://github.com/TheNameIsRob/azure-network-protocols)
   - [Preparing Active Directory Infrastructure](https://github.com/TheNameIsRob/Azure-User-Management)
-  - [Deploying Active Directory and Creating users with Powershell](https://github.com/TheNameIsRob/Active-Directory-Config)
-  - [Group Policy, Managing Accounts and File Permissions]()
+  - [Deploying Active Directory](https://github.com/TheNameIsRob/Active-Directory-Config)
+  - [Creating Users,Group Policy, Managing Accounts and File Permissions]()
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TheNameIsRob/osticket-prereqs)
