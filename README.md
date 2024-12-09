@@ -8,6 +8,9 @@
   - [Preparing Active Directory Infrastructure](https://github.com/TheNameIsRob/Azure-User-Management)
   - [Deploying Active Directory](https://github.com/TheNameIsRob/Active-Directory-Config)
   - [Creating Users,Group Policy, Managing Accounts and File Permissions](https://github.com/TheNameIsRob/User-Management/tree/main)
+ 
+-<b>Microsoft Office 365</b>
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TheNameIsRob/osticket-prereqs)
